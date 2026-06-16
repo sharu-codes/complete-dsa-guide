@@ -1,0 +1,71 @@
+# COMPLETE-DSA-GUIDE
+
+A structured collection of Data Structures and Algorithms problems and solutions in multiple programming languages.
+
+## Languages Covered
+
+- C
+- C++ (pending)
+- Java (pending)
+- Python (pending)
+
+## Repository Structure
+
+```text
+COMPLETE-DSA-GUIDE/
+│
+├── c-programs/
+│   ├── arrays/
+│   ├── strings/
+│   ├── linked-list/
+│   ├── stack/
+│   ├── queue/
+│   ├── tree/
+│   ├── graph/
+│   └── ...
+│
+├── cpp-programs/
+├── java-programs/
+└── python-programs/
+```
+
+## Naming Convention
+
+Each problem follows a numbered format:
+
+```text
+001_insertion_in_an_array.c
+002_deletion_from_an_array.c
+003_basic_sorting_of_an_array.c
+...
+```
+
+
+## Topics Covered
+
+- Arrays (currently)
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+- Searching
+- Sorting
+- Recursion
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+- Hashing
+- Bit Manipulation
+- And more...
+
+## Goal
+
+This repository is intended for:
+
+- DSA practice
+- Interview preparation
+- Competitive programming
+- Academic learning
+- Language-wise implementation comparison
