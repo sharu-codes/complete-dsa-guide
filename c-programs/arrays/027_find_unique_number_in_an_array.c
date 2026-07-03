@@ -1,7 +1,7 @@
 // Find an unique number which appears once in an array with duplicates
 
 /*
-
+ 
 Input:  arr[] = [2, 3, 5, 4, 5, 3, 4]
 Output: 2 
 Explanation: Since 2 occurs once, while other numbers occur twice, 2 is the answer.
