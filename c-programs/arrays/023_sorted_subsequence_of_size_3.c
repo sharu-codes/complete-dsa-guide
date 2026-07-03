@@ -58,7 +58,7 @@ int *find_subsequence (int arr[], int n, int *resSize) {
         }
         else {
             int *res = (int*)malloc(sizeof(int) * 3);
-            res[0] = prev_first;
+            res[0] = prev_first;  
             res[1] = second;
             res[2] = x;
 
