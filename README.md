@@ -14,19 +14,21 @@ A structured collection of Data Structures and Algorithms problems and solutions
 ```text
 COMPLETE-DSA-GUIDE/
 │
-├── c-programs/
-│   ├── arrays/
-│   ├── strings/
-│   ├── linked-list/
-│   ├── stack/
-│   ├── queue/
-│   ├── tree/
-│   ├── graph/
-│   └── ...
+├── data-structures/
+│   ├── c-programs
+│   │   ├── array/
+│   │   ├── matrix/
+│   │   ├── linked-list/
+│   │   ├── stack/
+│   │   ├── queue/
+│   │   ├── tree/
+│   │   ├── graph/
+│   │   └── ...
+│   ├── python-programs
+│   ├── java-programs
+│   ├── c++-programs
 │
-├── cpp-programs/
-├── java-programs/
-└── python-programs/
+└── algorithms/
 ```
 
 ## Naming Convention
@@ -41,7 +43,7 @@ Each problem follows a numbered format:
 ```
 
 
-## Topics Covered
+## Topics to be Covered
 
 - Arrays (currently)
 - Strings
