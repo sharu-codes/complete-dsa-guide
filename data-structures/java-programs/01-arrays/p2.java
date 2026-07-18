@@ -1,4 +1,4 @@
-// queue using an array and deque the last one 
+// queue using an array and deque the last element
 
 import java.util.Scanner;
 public class p2 {
