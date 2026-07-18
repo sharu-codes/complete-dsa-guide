@@ -1,4 +1,4 @@
-// take input of 2x2 matrices and calculate their sum
+// take input of two 2x2 matrices and calculate their sum
 
 import java.util.Scanner;
 public class p001 {
