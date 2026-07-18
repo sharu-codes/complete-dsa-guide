@@ -1,7 +1,7 @@
 // stack using an array and pop the last value
 
 import java.util.Scanner;
-public class p1 {
+public class p001 {
     static int top = -1;
     static int[] stack;
 
