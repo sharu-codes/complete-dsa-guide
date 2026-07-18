@@ -1,7 +1,7 @@
 // queue using an array and deque the last element
 
 import java.util.Scanner;
-public class p2 {
+public class p002 {
     static int[] queue;
     static int front = -1, rear = -1;
 
