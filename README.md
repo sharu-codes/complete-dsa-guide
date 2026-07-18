@@ -43,7 +43,7 @@ Each problem follows a numbered format:
 ```
 
 
-## Topics Covered
+## Topics to be Covered
 
 - Arrays (currently)
 - Strings
