@@ -4,9 +4,9 @@ A structured collection of Data Structures and Algorithms problems and solutions
 
 ## Languages Covered
 
-- (C) (ongoing) [https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/c-programs]
-- (Java) (ongoing) [https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/java-programs]
-- (Python) (ongoing) [https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/python-programs]
+- [C](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/c-programs) (ongoing)
+- [Java](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/java-programs) (ongoing)
+- [Python](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/python-programs)
 - C++ (pending)
 
 ## Repository Structure
