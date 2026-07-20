@@ -4,10 +4,10 @@ A structured collection of Data Structures and Algorithms problems and solutions
 
 ## Languages Covered
 
-- C
+- C (ongoing)
+- Java (ongoing)
+- Python (ongoing)
 - C++ (pending)
-- Java (pending)
-- Python (pending)
 
 ## Repository Structure
 
@@ -45,11 +45,11 @@ Each problem follows a numbered format:
 
 ## Topics to be Covered
 
-- Arrays (currently)
+- Arrays (ongoing)
+- Stacks (ongoing)
+- Queues (ongoing)
 - Strings
 - Linked Lists
-- Stacks
-- Queues
 - Trees
 - Graphs
 - Searching
