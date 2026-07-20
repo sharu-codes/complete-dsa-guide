@@ -6,7 +6,7 @@ A structured collection of Data Structures and Algorithms problems and solutions
 
 - [C](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/c-programs) (ongoing)
 - [Java](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/java-programs) (ongoing)
-- [Python](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/python-programs)
+- [Python](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/python-programs) (ongoing)
 - C++ (pending)
 
 ## Repository Structure
