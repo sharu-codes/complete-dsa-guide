@@ -48,7 +48,7 @@ Each problem follows a numbered format:
 - Arrays (ongoing)
 - Stacks (ongoing)
 - Queues (ongoing)
-- Strings
+- Strings (ongoing)
 - Linked Lists
 - Trees
 - Graphs
