@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class p005 {
+public class p008 {
 
     public static boolean isPrime(int num){
         if(num <= 1)
