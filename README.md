@@ -4,10 +4,10 @@ A structured collection of Data Structures and Algorithms problems and solutions
 
 ## Languages Covered
 
-- [C](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/c-programs) (ongoing)
-- [Java](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/java-programs) (ongoing)
-- [Python](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/python-programs) (ongoing)
-- C++ (pending)
+- [arrays]
+- [matrices]
+- [strings]
+- [queue]
 
 ## Repository Structure
 
@@ -15,18 +15,13 @@ A structured collection of Data Structures and Algorithms problems and solutions
 COMPLETE-DSA-GUIDE/
 │
 ├── data-structures/
-│   ├── c-programs
-│   │   ├── array/
-│   │   ├── matrix/
-│   │   ├── linked-list/
-│   │   ├── stack/
-│   │   ├── queue/
-│   │   ├── tree/
-│   │   ├── graph/
-│   │   └── ...
-│   ├── python-programs
-│   ├── java-programs
-│   ├── c++-programs
+│   ├── 01-array/
+│   │   ├── c-programs/
+│   │   ├── java-programs/
+│   │   ├── python-programs/
+│   ├── 02-matrix/
+│   ├── 03-list-tuple-set-dict
+│   ├── 04-strings
 │
 └── algorithms/
 ```
