@@ -4,11 +4,11 @@ A structured collection of Data Structures and Algorithms problems and solutions
 
 ## Languages Covered
 
-- arrays: https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/01-arrays
-- matrices: https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/02-matrices
-- strings: https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/04-strings
-- searching: https://github.com/sharu-codes/complete-dsa-guide/tree/main/algorithms/01-searching-algorithms
-- sorting: https://github.com/sharu-codes/complete-dsa-guide/tree/main/algorithms/02-sorting-algorithms
+- [arrays] (https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/01-arrays)
+- [matrices] (https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/02-matrices)
+- [strings] (https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/04-strings)
+- [searching] (https://github.com/sharu-codes/complete-dsa-guide/tree/main/algorithms/01-searching-algorithms)
+- [sorting] (https://github.com/sharu-codes/complete-dsa-guide/tree/main/algorithms/02-sorting-algorithms)
 
 ## Repository Structure
 
