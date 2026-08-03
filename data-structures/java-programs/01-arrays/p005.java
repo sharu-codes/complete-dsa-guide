@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class p7 {
+public class p005 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter size: ");
