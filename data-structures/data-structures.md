@@ -1,4 +1,4 @@
-- [mathematics](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/01-mathematics)
+- [mathematics](https://github.com/sharu-codes/complete-dsa-guide/blob/main/data-structures/01-mathematics/01-mathematics.md)
 
 - [arrays](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/02-arrays)
 

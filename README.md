@@ -4,8 +4,8 @@ A structured collection of Data Structures and Algorithms problems and solutions
 
 ## Concepts Covered
 
-- [Data Structures Codes](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures)
-    - [mathematics](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/01-mathematics)
+- [Data Structures Codes](https://github.com/sharu-codes/complete-dsa-guide/blob/main/data-structures/data-structures.md)
+    - [mathematics](https://github.com/sharu-codes/complete-dsa-guide/blob/main/data-structures/01-mathematics/01-mathematics.md)
     - [arrays](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/02-arrays)
     - [matrices](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/03-matrices)
     - [list-tuple-set-dict (python)](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/04-list-tuple-set-dict)
