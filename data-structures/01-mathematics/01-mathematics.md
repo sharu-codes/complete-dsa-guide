@@ -1,0 +1,4 @@
+- [python](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/01-mathematics/python%20program)
+- [c](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/01-mathematics/c-program)
+- [c++](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/01-mathematics/c%2B%2B-program)
+- [java](https://github.com/sharu-codes/complete-dsa-guide/tree/main/data-structures/01-mathematics/java-program)
